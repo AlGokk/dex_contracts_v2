@@ -4,5 +4,5 @@ Palindrome DEX is a merge of Uniswap V2 peripherals & core deployed in different
 
 ## Start
 
-- npm pinstall
+- npm install
 - npx hardhat test
